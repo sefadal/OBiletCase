@@ -26,3 +26,6 @@
 /Users/sefa.dal/RiderProjects/OBilet/OBilet/obj/Debug/net6.0/OBilet.pdb
 /Users/sefa.dal/RiderProjects/OBilet/OBilet/obj/Debug/net6.0/OBilet.genruntimeconfig.cache
 /Users/sefa.dal/RiderProjects/OBilet/OBilet/obj/Debug/net6.0/ref/OBilet.dll
+/Users/sefa.dal/RiderProjects/OBilet/OBilet/obj/Debug/net6.0/OBilet.RazorAssemblyInfo.cache
+/Users/sefa.dal/RiderProjects/OBilet/OBilet/obj/Debug/net6.0/OBilet.RazorAssemblyInfo.cs
+/Users/sefa.dal/RiderProjects/OBilet/OBilet/bin/Debug/net6.0/OBilet.staticwebassets.runtime.json
